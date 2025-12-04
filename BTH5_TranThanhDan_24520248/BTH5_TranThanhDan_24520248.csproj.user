@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BAI01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAI02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAI03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAI04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAI06.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAI08.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAI09.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAI10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAI11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
