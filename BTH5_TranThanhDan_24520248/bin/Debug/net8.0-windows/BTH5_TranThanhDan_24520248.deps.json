@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BTH5_TranThanhDan_24520248/1.0.0": {
+        "runtime": {
+          "BTH5_TranThanhDan_24520248.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTH5_TranThanhDan_24520248/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

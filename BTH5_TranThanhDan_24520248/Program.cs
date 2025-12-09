@@ -11,7 +11,7 @@ namespace BTH5_TranThanhDan_24520248
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new BAI10());
+            Application.Run(new BAI11());
         }
     }
 }

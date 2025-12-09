@@ -67,7 +67,12 @@ namespace BTH5_TranThanhDan_24520248
         }
         void VeHinh(Graphics g)
         {
-            Rectangle rect = new Rectangle(Math.Min(start.X, end.X), Math.Min(start.Y, end.Y), Math.Abs(start.X - end.X), Math.Abs(start.Y - end.Y));
+            Rectangle rect = new Rectangle(
+                Math.Min(start.X, end.X),
+                Math.Min(start.Y, end.Y),
+                Math.Max(1, Math.Abs(start.X - end.X)),
+                Math.Max(1, Math.Abs(start.Y - end.Y))
+            );
             if (radioButtonLine.Checked)
             {
                 if (textBoxWidthLine.Text.Length == 0)
